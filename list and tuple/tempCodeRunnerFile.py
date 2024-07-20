@@ -1,1 +1,1 @@
-print(f[0])
+print(n)
