@@ -13,9 +13,9 @@ d.update({"add": "murbad", "dept":"devops"}) #existing change & new added
 
 print(d.get("dept")) #get value of key
 print(d.get("add1")) # give none
-print(d["add1"]) #give error
-
-
+#print(d["add1"]) #give error
+n={'name':'shubham', 'add':'titwala'}
+print(len(n))
 
 
 
